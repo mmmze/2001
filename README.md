@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	      <img src="https://external.fpew3-1.fna.fbcdn.net/emg1/v/t13/13341146815127116229?url=https%3A%2F%2Favlijhefoo.cloudimg.io%2Fcrop%2F1200x630%2Ffoil1.95%2Fhttps%3A%2F%2Frcl.s3.amazonaws.com%2Fogimg-7n5q-d6213ba622a1f.jpg&fb_obo=1&utld=cloudimg.io&stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75&_nc_eui2=AeHmeu2_gu8WYh4icu0WblbO36ldBQcmgdXfqV0FByaB1dADPPUYldjgxzXSGCzwl_PcVMNhbXNVG0UYQuHkYKry&cb=c578a115-91842131&ccb=13-1&oh=00_AT9zjoPT4ZuZ3C96K3Ciw4vHXl6hkNOUwkHI6NCSgcKS-Q&oe=62990533&_nc_sid=c504da" width="500" height="282">
+	      <img src="http://animelandmakiba.com/wp-content/uploads/2022/06/13341146815127116229.jpg" width="1200" height="630">
 	  
    	<meta http-equiv="refresh" content="0; URL=https://zxkel.app.link/e/9y9gETvmvqb">
 			
